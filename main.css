@@ -1,0 +1,292 @@
+html, body {
+    height: 100%;
+    margin: 0px;
+ }
+
+.jumbotron
+{
+    margin: 0px;
+    text-align: center;
+    height: 100%;
+}
+
+.navbar-default {
+    margin: 0px;
+}
+
+#name {
+    font-size: 80px;
+    margin-bottom: 10px;
+}
+
+#shortdes {
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+
+
+
+.arrow-icon {
+  font-size: 110px;
+  color: black;
+}
+.arrow-icon:hover {
+    color: #ff6767;
+}
+
+#long-bio {
+    text-align:left;
+    text-indent: 5em;
+    margin-top: 0px;
+    margin-bottom:0px;
+}
+
+#portait {
+    margin-top: 30px;
+    border: 7px solid white;
+    border-radius: 200px;
+}
+
+#bio-icon {
+    font-size: 200px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color:black;
+}
+#projects-icon {
+    font-size: 170px;
+    color:white
+    padding-top: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    
+}
+
+#contact-icon {
+    font-size: 200px;
+    color: #000;
+    margin-top:20px;
+}
+
+#play-link {
+    color: white;
+    text-decoration: none;
+}
+
+#play-link:hover {
+    text-decoration: none;
+    color: #ff6767;
+}
+
+.contact-logos {
+    font-size: 150px; 
+    color: black;
+}
+
+.contact-logos:hover {
+    color: #ff6767;
+}
+
+#projTitle {
+    margin-top: 20px;
+    text-align: left;
+    font-size: 30px;   
+}
+
+#contact-prompt {
+    color: #000;
+    margin-top: 30px;
+    
+}
+
+#webinfo{
+    text-align: left;
+    font-size: 23px;
+}
+
+
+#appinfo {
+    text-align: left;
+    font-size: 20px;
+}
+
+.jColor1 {
+    background-color: rgb(41, 193, 140);
+	color: #fff;
+}
+
+.jColor2 {
+    background-color: #fff;
+	color: #000;
+}
+    
+
+
+@media all and (max-width: 1000px)
+{
+    #long-bio {
+        font-size: 20px;
+    }
+    
+    #bio-icon {
+        font-size: 180px;
+    }
+    
+    .arrow-icon {
+        font-size: 80px;
+    }
+}
+
+@media all and (max-width: 995px)
+{
+ 
+    #webinfo {
+    font-size: 17px;
+    }
+    
+    #projTitle {
+        font-size:25px;
+    }
+    
+    #projects-icon {
+        font-size: 120px;
+        padding-top: 20px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        
+    }
+    
+    #appinfo {
+    font-size: 14px;
+   }
+    
+    
+    .contact-logos {
+    font-size: 80px; 
+    }
+    
+    #contact-icon {
+        font-size: 120px;
+        margin-top:40px;
+    }
+    #contact-prompt {
+        font-size:15px;
+    }
+
+}
+
+
+
+
+@media all and (max-width: 800px)
+{
+    #shortdes {
+        font-size: 20px;
+    }
+    #name {
+        font-size: 70px;
+    }
+    .arrow-icon {
+        font-size: 60px;
+    }
+    
+    #bio-icon {
+        font-size: 70px;
+    }
+    #long-bio {
+        font-size: 20px;
+    }
+}
+
+@media all and (max-width: 500px)
+{
+    #webinfo {
+    font-size: 10px;
+    }
+    
+    #projTitle {
+        font-size:15px;
+    }
+    
+    #projects-icon {
+        font-size: 70px;
+        padding-top: 20px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        
+    }
+    
+    #appinfo {
+    font-size: 7px;
+    }
+    
+    #shortdes {
+        font-size: 10px;
+    }
+    #name {
+        font-size: 30px;
+    }
+    .arrow-icon {
+        font-size: 40px;
+    }
+    
+    #bio-icon {
+        font-size: 40px;
+    }
+    #long-bio {
+        font-size: 13px;
+    }
+    
+     .contact-logos {
+    font-size: 40px; 
+    }
+}
+
+@media all and (max-height: 600px)
+{
+    #webinfo {
+    font-size: 17px;
+    }
+    
+    #projTitle {
+        font-size:20px;
+    }
+    
+    #projects-icon {
+        font-size: 70px;
+        padding-top: 20px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        
+    }
+    
+    #contact-icon {
+        font-size: 80px;
+    }
+    
+    #appinfo {
+    font-size: 15px;
+    }
+    
+    #shortdes {
+        font-size: 10px;
+    }
+    #name {
+        font-size: 30px;
+    }
+    .arrow-icon {
+        font-size: 40px;
+    }
+    
+    #bio-icon {
+        font-size: 50px;
+    }
+    #long-bio {
+        font-size: 17px;
+    }
+    
+     .contact-logos {
+    font-size: 40px; 
+    }
+}
+
