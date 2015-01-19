@@ -231,7 +231,7 @@ html, body {
     }
     
     #bio-icon {
-        font-size: 40px;
+        font-size: 45px;
     }
     #long-bio {
         font-size: 13px;
@@ -245,15 +245,15 @@ html, body {
 @media all and (max-height: 600px)
 {
     #webinfo {
-    font-size: 14px;
+    font-size: 10px;
     }
     
     #projTitle {
-        font-size:17px;
+        font-size:15px;
     }
     
     #projects-icon {
-        font-size: 60px;
+        font-size: 70px;
         padding-top: 20px;
         margin-top: 20px;
         margin-bottom: 10px;
@@ -265,7 +265,7 @@ html, body {
     }
     
     #appinfo {
-    font-size: 13px;
+    font-size: 7px;
     }
     
     #shortdes {
@@ -279,10 +279,10 @@ html, body {
     }
     
     #bio-icon {
-        font-size: 50px;
+        font-size: 45px;
     }
     #long-bio {
-        font-size: 15px;
+        font-size: 13px;
     }
     
      .contact-logos {
