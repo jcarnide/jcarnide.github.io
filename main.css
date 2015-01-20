@@ -201,7 +201,7 @@ html, body {
 @media all and (max-width: 500px)
 {
     #webinfo {
-    font-size: 10px;
+    font-size: 11px;
     }
     
     #projTitle {
@@ -217,7 +217,7 @@ html, body {
     }
     
     #appinfo {
-    font-size: 8px;
+    font-size: 9px;
     }
     
     #shortdes {
@@ -234,7 +234,7 @@ html, body {
         font-size: 45px;
     }
     #long-bio {
-        font-size: 9px;
+        font-size: 11px;
     }
     
      .contact-logos {
@@ -245,7 +245,7 @@ html, body {
 @media all and (max-height: 600px)
 {
     #webinfo {
-    font-size: 10px;
+    font-size: 11px;
     }
     
     #projTitle {
@@ -265,7 +265,7 @@ html, body {
     }
     
     #appinfo {
-    font-size: 8px;
+    font-size: 9px;
     }
     
     #shortdes {
@@ -282,7 +282,7 @@ html, body {
         font-size: 45px;
     }
     #long-bio {
-        font-size: 9px;
+        font-size: 11px;
     }
     
      .contact-logos {
